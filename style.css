@@ -1,0 +1,69 @@
+/* ===== BASIC PAGE STYLE ===== */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f2f7fb;
+    text-align: center;
+}
+
+/* ===== NAVIGATION BAR ===== */
+.navbar {
+    background-color: #0a6c74;
+    padding: 15px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 12px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: #ffd166;
+}
+
+/* ===== LOGO TEXT ===== */
+.logo {
+    color: #ffffff;
+    display: block;
+    font-size: 26px;
+    margin-bottom: 8px;
+}
+
+/* ===== MAIN CONTENT ===== */
+.container {
+    padding: 30px;
+}
+
+/* ===== HEADINGS ===== */
+h1 {
+    color: #333333;
+}
+
+/* ===== IMAGES ===== */
+img {
+    width: 320px;
+    border-radius: 12px;
+    margin: 15px 0;
+}
+
+/* ===== PLACE CARDS ===== */
+.card {
+    background-color: #ffffff;
+    width: 70%;
+    margin: 25px auto;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* ===== FOOTER ===== */
+footer {
+    background-color: #0a6c74;
+    color: white;
+    padding: 12px;
+    margin-top: 30px;
+}
